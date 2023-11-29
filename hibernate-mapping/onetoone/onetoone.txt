@@ -1,0 +1,2 @@
+* One-to-one mapping is used to establish a relationship between two entities where one instance of an entity is associated with exactly one instance of another entity. 
+* one common approach to implement one-to-one mapping in Hibernate is to use the @OneToOne annotation.
